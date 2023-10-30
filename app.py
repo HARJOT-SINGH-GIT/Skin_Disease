@@ -49,10 +49,6 @@ def predict():
         else: 
             return "Unable to read the file"
 if __name__ == "__main__":
-<<<<<<< HEAD
-
-=======
->>>>>>> 8886d1f7e833d489f0ded348e8847ef77e1c3f69
     app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
     
             
