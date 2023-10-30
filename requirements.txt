@@ -3,4 +3,3 @@ keras==2.11.0
 numpy==1.21.6
 Pillow==9.5.0
 tensorflow==2.11.0
-tensorflow_intel==2.14.0
